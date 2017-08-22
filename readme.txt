@@ -5,3 +5,4 @@ Git tracks changes of files
 my stupid boos still prefers SVN
 
 git addreadme.txt
+asd
