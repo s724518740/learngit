@@ -7,4 +7,4 @@ my stupid boos still prefers SVN
 git addreadme.txt
 asd
 
-createing a new breach is quick
+createing a new breach is quick and simple
